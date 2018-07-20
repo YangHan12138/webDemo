@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=GBK" language="java" errorPage=""%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" errorPage=""%>
 <html>
 <head>
 	<title>»¶Ó­</title>
